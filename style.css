@@ -159,19 +159,3 @@ section {
     transform-style: preserve-3d;
     transform: perspective(500px);
 }
-
-@media (max-width: 768px) {
-    header h1 {
-        font-size: 2.2rem;
-    }
-    nav ul {
-        flex-direction: column;
-        padding: 1rem 0;
-    }
-    nav ul li {
-        margin: 0.5rem 0;
-    }
-    section {
-        padding: 1.5rem;
-    }
-}

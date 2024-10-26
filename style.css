@@ -47,6 +47,11 @@ header h1 {
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
 }
 
+a{
+    text-decoration: none;
+    color: black;
+}
+
 nav ul {
     list-style: none;
     display: flex;
